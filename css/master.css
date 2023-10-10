@@ -1,0 +1,109 @@
+#banner{
+    position: relative;
+}
+
+#subtituloBanner{
+    position: absolute;
+    top: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 5rem;
+    color: white;
+    background-color: rgba(0,0,0, 0.6);
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+}
+#encabezado{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    background-color: rgba(0,0,0, 0.6);
+    z-index: 1000 ;
+    width: 100%;
+}
+#opciones{
+    display: flex;
+    justify-content: space-around;   
+}
+ul{
+    list-style-type: none;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    text-transform: none;
+    color: black;
+}
+ul#opciones li a{
+    font-size: 1.4rem;
+    color: white;
+    position: relative;
+    list-style-type: none;   
+}
+
+ul#opciones li a::after{
+    content: '';
+    width: 0%;
+    background-color: black;
+    height: 4px;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: all 0.9s;
+}
+
+ul#opciones li a:hover::after{
+    width: 100%;
+}
+
+ul#opciones li a:hover{
+    color: grey;
+}
+
+#logo{
+    width: 20%;
+    color:white;
+}
+#menu{
+    width: 60%;
+}
+
+#quieneSomos{
+    display: flex;
+}
+.detalle{
+    background-color: rgba(0,0,0, 0.6);
+    color: white;
+    width: 100%;
+}
+.piePagina{
+    justify-items: center;
+    align-items: center;
+    background-color: white;
+    color: black;
+    background-color: rgba(0,0,0, 0.2);
+}
+#redeSociales{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+ion-icon{
+    color: black;
+    font-size: 2rem;
+}
+#fondoDetalle{
+    position: relative;
+     
+}
+#informacion{
+        position: absolute;
+        top: 100px;
+        margin: 20px;  
+        padding: 2px;       
+}
+.subtitulo{
+    text-align: center;
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "codigo" : "01",
+        "nombre" : "Proteina",
+        "precio" : "18900",
+        "peso": "1.5 kg",
+        "imagen" : "/img/WheyProtein.png",
+        "detalle": "WHEY PROTEIN es un completo suplemento de proteínas lácteas de alta asimilación y elevado valor biológico ideal para el crecimiento y la recuperación muscular. WHEY PROTEIN está diseñada para ser una fórmula de elevada digestibilidad por ser reducida en grasa y lactosa, componentes capaces de producir alteraciones digestivas. Contiene una alta concentración de BCAA (Leucina, Isoleucina y Valina) y Glutamina, transformándola en una proteína superior, ideal para satisfacer las necesidades aumentadas de los deportistas.",
+        "uso":"3 medidas al ras (30gr aprox) + 300cc de agua o leche descremada. Consumir 1 o 2 veces al dia, despues de entrenar entre comidas y antes de ir a acostarse"
+
+    },
+    {
+        "codigo" : "02",
+        "nombre" : "Creatina",
+        "precio" : "11380",
+        "peso": "250 g",
+        "imagen" : "/img/Creatina.png",
+        "detalle": "La Creatina es una sustancia natural que se encuentra en las células del músculo de nuestro cuerpo, especialmente en los músculos esqueléticos.El incremento de la creatina intramuscular, aumenta la capacidad de ejercicio a potencia máxima, retardando la aparición de fatiga. Mejora el metabolismo de energía celular y amplia la capacidad de entrenar.",
+        "uso": "3gr por dia. Acompañado de liquidos azucarados. Inmediatamente despues de entrenar. Dias sin entreno, consumir con la comida principal"
+    
+ },
+    {
+        "codigo" : "03",
+        "nombre" : "Pre Workout",
+        "precio" : "9000",
+        "peso": "500 gr",
+        "imagen" : "/img/PRE WORK.png",
+        "detalle": "Es un producto de pre entrenamiento. Su formulación contiene cafeína, creatina, beta- alanina, precursores de óxido nítrico, taurina y vitaminas. Estimula el Sistema Nervioso Central, aumentando la concentración y la energía a nivel muscular logrando llevar al máximo el rendimiento. Tiene efecto inmediato y puede ser consumido a diario, respetando cichol de consumo y descanso",
+        "uso":"Consumir 30 a 45 minutos antes del entrenamiento. 1 medida al ras (8gr) + 500ml de agua."
+    },
+    {
+        "codigo" : "04",
+        "nombre" : "BCCA 2000",
+        "precio" : "7000",
+        "peso": "120 comprimidos",
+        "imagen" : "/img/BCCA.png",
+        "detalle":"BCAA son siglas que identifican a 3 aminoácidos de cadena ramificada: leucina, isoleucina y valina. Estos aminoácidos se consideran esenciales ya que es necesario consumirlos a través de los alimentos porque nuestro cuerpo no los produce por sí solo. Los BCAA se caracterizan por ser metabolizados a nivel muscular a diferencia del resto de los aminoácidos que se metabolizan en el hígado, es por eso que se consideran una fuente de energía directa para los músculos. Al aumentar la síntesis protéica y disminuir el catabolismo muscular, favorecen la recuperación post actividad física.",
+        "uso":"4 comprimidos por dia: 2 media hora antes del entrenamiento + 2 inmediatamente despues. Acompañar el consumo con agua."
+    },
+    {
+        "codigo" : "05",
+        "nombre" : "Glutamina",
+        "precio" : "11000",
+        "peso": "200 gr",
+        "imagen" : "/img/GLUTAMINA.png",
+        "detalle":"La GLUTAMINA es un aminoácido con efecto anticatabólico que previene el proceso de pérdida de masa muscular posterior a la actividad física. Favorece la síntesis protéica, contribuyendo al aumento y conservación de la masa muscular magra. Previene el síndrome de sobreentrenamiento y cumple un importante rol sobre el sistema inmune. La suplementación con glutamina podría disminuir el riesgo de infecciones en deportistas.",
+        "uso":"5gr con agua o liquidos azucarados. Un servicio despues de entrenar o antes de ir a dormir en periodos de alto volumenes de entrenamiento"
+    },
+    {
+        "codigo" : "06",
+        "nombre" : "Colageno",
+        "precio" : "15000",
+        "peso": "500 g",
+        "imagen" : "/img/COLAGENO.png",
+        "detalle":"FLEXO DRINK es un suplemento desarrollado para ofrecer una nutrición integral del tejido óseo y conectivo. Su exclusiva fórmula, combina colágeno hidrolizado, ácido hialurónico, vitamina C y otros componentes con funciones activas en la conservación de la salud de las articulaciones, mejorando la movilidad y flexibilidad articular. Flexo Drink aporta la nutrición específica para potenciar la recuperación y regeneración de los tejidos conectivos.",
+        "uso":"Antes del desayuno consumir 3 medidas al ras (20gr) + 300ml de agua"
+    }
+]
